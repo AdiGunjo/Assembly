@@ -1,4 +1,4 @@
-: commit changes
+; commit changes
 
 .MODEL SMALL
 .STACK 100H
